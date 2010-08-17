@@ -1,4 +1,4 @@
-penspace Rio
+Openspace Rio
 ==============
 Projeto criado para divulgar o Openspace no Rio de Janeiro.
 
